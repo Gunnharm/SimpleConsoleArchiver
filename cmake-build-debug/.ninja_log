@@ -1,5 +1,0 @@
-# ninja log v5
-5	1687	7025836368250138	src/CMakeFiles/archiver.dir/archiver.cpp.obj	16b15c31416d9262
-9	3637	7025827408250601	src/CMakeFiles/archiver.dir/archiver_implementation.cpp.obj	e8f82aa28e2bd15e
-3638	4071	7025827412571511	src/archiver.exe	67aeab688447cc05
-3	1129	7025837979643111	../archiver.exe	6c5485535e299631
